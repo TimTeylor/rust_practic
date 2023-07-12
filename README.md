@@ -18,3 +18,9 @@ The Clippy tool is a collection of lints to analyze your code so you can catch c
 ```
 cargo clippy
 ```
+
+## Dependency documentation
+build documentation provided by all your dependencies locally and open it in your browser
+```
+cargo doc --open
+```
